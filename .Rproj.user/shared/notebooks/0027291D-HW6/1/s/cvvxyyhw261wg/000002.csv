@@ -1,0 +1,4 @@
+"0","```r
+X_wine <- wine[,c(\"density\", \"sulfates\", \"residual_sugar\")]
+y_wine <- wine[,c(\"high_quality\")]
+```"

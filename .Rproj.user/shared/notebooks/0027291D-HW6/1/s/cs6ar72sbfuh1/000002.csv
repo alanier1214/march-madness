@@ -1,0 +1,10 @@
+"0","```r
+set.seed(123)
+inTrain <- createDataPartition(y=y_wine, p=0.7, list=FALSE)
+
+# Extract the training and test sets:
+X_train <- X_wine[inTrain,]
+X_test <- X_wine[-inTrain,]
+y_train <- y_wine[inTrain]
+y_test <- y_wine[-inTrain]
+```"

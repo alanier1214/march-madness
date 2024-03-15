@@ -1,0 +1,11 @@
+"0","```r
+summary(size)
+```"
+"1","     Height          Weight     
+ Min.   :62.00   Min.   :106.0  
+ 1st Qu.:66.00   1st Qu.:135.2  
+ Median :68.00   Median :146.5  
+ Mean   :68.42   Mean   :151.1  
+ 3rd Qu.:70.38   3rd Qu.:172.0  
+ Max.   :77.00   Max.   :192.0  
+"

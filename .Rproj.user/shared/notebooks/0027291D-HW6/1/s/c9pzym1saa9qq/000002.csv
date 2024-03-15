@@ -1,0 +1,12 @@
+"0","```r
+theModel <- lm(Weight~Height, size)
+theModel
+```"
+"1","
+Call:
+lm(formula = Weight ~ Height, data = size)
+
+Coefficients:
+(Intercept)       Height  
+   -130.354        4.113  
+"
